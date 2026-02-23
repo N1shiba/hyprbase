@@ -7,3 +7,4 @@ nautilus
 wofi
 qucikshell
 hyprshot
+nerd font
