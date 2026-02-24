@@ -1,7 +1,7 @@
 # hyprbase
 this is my base hyprland dotfiles
 
-neded:
+dependencys:
 
 kitty,
 nautilus,
